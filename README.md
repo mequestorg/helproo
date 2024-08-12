@@ -26,6 +26,7 @@ Helproo is an innovative mobile application designed to simplify the process of 
 - **Referrals:** Users who wish to refer friends or family to the app for rewards.
 
 ## 2. Features and Functionalities
+<img src="https://github.com/user-attachments/assets/2cbf1ddd-d040-44b2-b799-3f76f2a69b18" alt="helproo-logo-1" width="100"/>
 
 ### 2.1. Service Matching
 
@@ -228,6 +229,7 @@ A platform where users can negotiate service prices with providers.
 - As a service provider, I want to have the option to accept, decline, or counter the user’s offer.
 
 ## 3. Technical Requirements
+<img src="https://github.com/user-attachments/assets/2cbf1ddd-d040-44b2-b799-3f76f2a69b18" alt="helproo-logo-1" width="100"/>
 
 ### 3.1. Platform Support
 
@@ -261,6 +263,7 @@ A platform where users can negotiate service prices with providers.
  
 
 ## 4. User Interface Design
+<img src="https://github.com/user-attachments/assets/2cbf1ddd-d040-44b2-b799-3f76f2a69b18" alt="helproo-logo-1" width="100"/>
 
 ### 4.1. Design Principles
 
