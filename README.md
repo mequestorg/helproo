@@ -1,6 +1,6 @@
 # Product Requirements Document (PRD) for Helproo App
 
-## Overview
+## 1. Overview
 <img src="https://github.com/user-attachments/assets/2cbf1ddd-d040-44b2-b799-3f76f2a69b18" alt="helproo-logo-1" width="200"/>
 
 The Helproo App represents a new frontier in the on-demand household services industry, combining cutting-edge technology with a deep understanding of user needs. As modern lifestyles become increasingly fast-paced, the demand for efficient, reliable, and easily accessible household services has never been greater. Helproo addresses this need by creating a platform that not only connects users with top-quality service providers but also transforms the way these services are requested, managed, and delivered.
@@ -25,7 +25,7 @@ Helproo is an innovative mobile application designed to simplify the process of 
 - **Service Providers:** Professionals offering household services such as cleaning, gardening, maintenance, etc.
 - **Referrals:** Users who wish to refer friends or family to the app for rewards.
 
-## Features and Functionalities
+## 2. Features and Functionalities
 
 ### 2.1. Service Matching
 
@@ -226,4 +226,49 @@ A platform where users can negotiate service prices with providers.
 
 - As a user, I want to negotiate the service price directly with the provider through the app.
 - As a service provider, I want to have the option to accept, decline, or counter the user’s offer.
+
+## 3. Technical Requirements
+
+### 3.1. Platform Support
+
+- **Mobile App:** iOS and Android platforms.
+- **Backend:** Scalable cloud-based architecture (e.g., AWS or Azure).
+- **AI Integration:** Natural Language Processing (NLP) for voice command interpretation.
+
+### 3.2. Payment Gateway Integration
+
+- **Requirements:**
+  - Secure API integration with major payment gateways (e.g., Stripe, PayPal, etc.).
+  - Compliance with PCI-DSS standards.
+
+### 3.3. Real-time Tracking and Notifications
+
+- **Requirements:**
+  - Integration with geolocation services (e.g., Google Maps API).
+  - Push notification services (e.g., Firebase Cloud Messaging).
+
+### 3.4. AI-Powered Features
+
+- **Requirements:**
+  - Speech recognition and NLP capabilities.
+  - Real-time quote generation based on service request parameters.
+
+### 3.5. Security and Compliance
+
+- **Requirements:**
+  - User data encryption and secure storage.
+  - Compliance with data protection regulations (e.g., GDPR, CCPA).
+ 
+
+## 4. User Interface Design
+
+### 4.1. Design Principles
+
+- **Intuitive Navigation:** Ensure that the app is easy to navigate, with clear labels and an uncluttered interface.
+- **Accessibility:** Design for all users, including those with disabilities or preferences for verbal communication.
+- **Consistent Experience:** Maintain a consistent look and feel across all screens and interactions.
+
+### 4.2. Wireframes and Mockups
+
+- **Requirement:** Develop wireframes and mockups for all major screens and interactions, including the service provider directory, booking interface, voice command interface, and payment screens.
 
